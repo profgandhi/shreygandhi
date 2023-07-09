@@ -1,0 +1,15 @@
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+
+  /* font sizes */
+  --font-size-base: 24px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-orange: #fd7e14;
+  --color-black: #000;
+
+  /* border radiuses */
+  --br-md: 10px;
+}
